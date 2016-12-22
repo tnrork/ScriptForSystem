@@ -1,0 +1,815 @@
+    1  ip addr
+    2  sudo apt-get install vim
+    3  sudo vim /etc/modprobe.d/blacklist.conf 
+    4  sudo apt-get remove --purge nvidia*
+    5  sudo update-initramfs -y
+    6  sudo update-initramfs -u
+    7  reboot
+    8  sudo apt-add-repository ppa:ubuntu-x-swat/x-updates
+    9  sudo apt-get update
+   10  apt-get install nvidia-current
+   11  sudo apt-get install nvidia-current
+   12  xinput --list --short
+   13  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 5
+   14  sudo vim /etc/modprobe.d/blacklist.conf
+   15  nvidia-settings 
+   16  sudo apt-get remove --purge nvidia*
+   17  sudo /etc/init.d/gdm stop
+   18  sudo /etc/init.d/gdm3 stop
+   19  sudo apt-get purge nvidia*
+   20  sudo service lightdm stop
+   21  sudo service lightdm status
+   22  monster
+   23  cd Downloads/
+   24  ls
+   25  sudo ./NVIDIA-Linux-x86_64-367.57.run
+   26  sudo /etc/init.d/gdm3 start
+   27  sudo /etc/init.d/gdm3 stp
+   28  sudo /etc/init.d/gdm3 stto
+   29  sudo /etc/init.d/gdm3 stop
+   30  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 5
+   31  cd Downloads/
+   32  ls
+   33  chmod +x NVIDIA-Linux-x86_64-367.57.run 
+   34  sudo ./NVIDIA-Linux-x86_64-367.57.run 
+   35  reboot
+   36  reboot 
+   37  sudo service gmd3 stop
+   38  ps aux
+   39  ps aux | grep X
+   40  kill 4203
+   41  ps aux | grep X
+   42  sudo service xorg stop
+   43  sudo apt-get purge nvidia-*
+   44  cd Downloads/
+   45  ls
+   46  ./NVIDIA-Linux-x86_64-367.57.run --uninstall
+   47  sudo ./NVIDIA-Linux-x86_64-367.57.run --uninstall
+   48  ls
+   49  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 5
+   50  ubuntu-drivers devices
+   51  sudo add-apt-repository ppa:graphics-drivers/ppa
+   52  sudo apt-get update
+   53  sudo apt-get install nvidia-364
+   54  sudo reboot
+   55  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 5
+   56  df -Th
+   57  sudo apt-get install -y virtualbox calibre clementine vlc links2 lynx thunderbird 
+   58  ubuntu-drivers 
+   59  ubuntu-drivers -h
+   60  ubuntu-drivers -
+   61  ubuntu-drivers -h
+   62  ubuntu-drivers devices
+   63  sudo apt-get install terminator
+   64  vim ~/.bashrc'
+   65  vim ~/.bashrc
+   66  source 
+   67  source ~/.bashrc
+   68  indir 
+   69  bashrc 
+   70  sourceb
+   71  cd
+   72  indir htop
+   73  sudo reboot
+   74  bashrc
+   75  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 5
+   76  sudo apt-get install youtube-dl 
+   77  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 10
+   78  sudo apt-get install youtube-dl 
+   79  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 5
+   80  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 8
+   81  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 10
+   82  apt-get install kubuntu-desktop
+   83  sudo apt-get install kubuntu-desktop
+   84  sudo add-apt-repository ppa:kubuntu-ppa/backports
+   85  sudo apt-get update && sudo apt-get dist-upgrade
+   86  sudo apt-get install kubuntu-desktop
+   87  reboot
+   88  sudo apt-get install guake
+   89  guake-prefs 
+   90  sudo apt-get install guake-indicator 
+   91  ksuperkey 
+   92  man ksuperkey 
+   93  ksuperkey 
+   94  ksuperkey -e 'Meta_L=Alt_L|F1
+   95  ksuperkey -e 'Meta_L=Alt_L|F1'
+   96  indir 
+   97  alias indir
+   98  sudo apt-get install ksuperkey
+   99  sudo add-apt-repository ppa:mehanik/ksuperkey
+  100  sudo apt-get update 
+  101  sudo apt-get install ksuperkey
+  102  ksuperkey 
+  103  ksuperkey -e 'Super_L=Alt_L|F1'
+  104  sudo apt-get install kde-wallpapers
+  105  ls
+  106  cd Downloads/
+  107  ls
+  108  indir kscreensaver
+  109  sudo apt-get install kscreen
+  110  kscreen-console 
+  111  indir yakuake
+  112  sudo reboot
+  113  yakuake 
+  114  psg guake
+  115  kill 1891
+  116  systemctl networking restart
+  117  sudo systemctl restart networkf
+  118  sudo systemctl restart network
+  119  sudo systemctl restart networking
+  120  reboot
+  121  gnome-screens devices
+  122  ubuntu-drivers 
+  123  ubuntu-drivers devices
+  124  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 10
+  125  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 15
+  126  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 3
+  127  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 4
+  128  wget --output-document=/dev/null http://speedtest.wdc01.softlayer.com/downloads/test500.zip
+  129  wget -O speedtest-cli https://raw.github.com/sivel/speedtest-cli/master/speedtest_cli.py
+  130  c speedtest-cli 
+  131  ./speedtest-cli 
+  132  ip addr
+  133  cat /etc/hosts
+  134  lync
+  135  lynx
+  136  indir mc
+  137  mc
+  138  ls
+  139  pwd
+  140  C
+  141  sudo su
+  142  cat /etc/hosts
+  143  scp -r root@188.166.98.239://etc/openvpn/easy-rsa/keys
+  144  scp -r root@188.166.98.239:/etc/openvpn/easy-rsa/keys/client*
+  145  scp -rp root@188.166.98.239:/etc/openvpn/easy-rsa/keys/client*
+  146  scp -rp root@188.166.98.239:/etc/openvpn/easy-rsa/keys/client* .
+  147  scp -rp root@188.166.98.239:/etc/openvpn/easy-rsa/keys/ca* .
+  148  pwd
+  149  ls
+  150  scp -rp root@188.166.98.239:/etc/openvpn/easy-rsa/keys/client.ovpn
+  151  scp -rp root@188.166.98.239:/etc/openvpn/easy-rsa/keys/client.ovpn .
+  152  cat client.ovpn 
+  153  vim client.ovpn 
+  154  indir -y openvpn
+  155  openvpn --config client.conf
+  156  openvpn --config 
+  157  ls
+  158  vim client.ovpn 
+  159  pwd
+  160  vim client.ovpn 
+  161  sudo openvpn --config client.ovpn 
+  162  cat client.crt 
+  163  ls
+  164  scp -rp root@188.166.98.239:/etc/openvpn/easy-rsa/keys/c* .
+  165  cat client.ovpn 
+  166  ls
+  167  ls c*
+  168  vim client.ovpn 
+  169  sudo openvpn --confg client.ovpn 
+  170  cat client.ovpn 
+  171  sudo openvpn --config client.ovpn 
+  172  ls
+  173  sudo openvpn --confg client.ovpn 
+  174  sudo openvpn --config client.ovpn 
+  175  cat client.crt 
+  176  sudo cat client.crt 
+  177  cat client.key 
+  178  scp -rp root@188.166.98.239:/etc/openvpn/easy-rsa/keys/c* .
+  179  cat client.ovpn 
+  180  vim client.ovpn 
+  181  sudo openvpn --config client.ovpn 
+  182  ll
+  183  chmod 700 client.key 
+  184  chmod 700 client.crt
+  185  chmod 700 ca.crt 
+  186  ls -l
+  187  chmod 700 ca.key 
+  188  sudo openvpn --config client.ovpn 
+  189  chmod 700 client.ovpn 
+  190  sudo openvpn --config client.ovpn 
+  191  sudo openvpn --config client.ovpn
+  192  indir Failed to start openvpn.service: Unit openvpn.service failed to load: No such file or directory
+  193  indir network-manager-openvpn
+  194  openvpn 
+  195  sudo restart network-manager
+  196  restart network-manager
+  197  alias baglan
+  198  sudo vim /etc/hosts
+  199  baglan
+  200  alias baglan
+  201  baglan
+  202  iptables -L | grep 1194
+  203  cd openvp
+  204  mkdir openvpn
+  205  cd openvpn/
+  206  rm -rf /etc/openvpn/*
+  207  pwd
+  208  vim client.ovpn
+  209  pwd
+  210  vim client.ovpn
+  211  scp -rp root@188.166.98.239:/etc/openvpn/easy-rsa/keys/ca.crt .
+  212  scp -rp root@188.166.98.239:/etc/openvpn/easy-rsa/keys/client.crt .
+  213  scp -rp root@188.166.98.239:/etc/openvpn/easy-rsa/keys/client.key .
+  214  sudo openvpn --config client.ovpn 
+  215  ll
+  216  chmod 700 c*
+  217  ll
+  218  sudo openvpn --config client.ovpn 
+  219  cat ca.crt 
+  220  ls
+  221  cat client.key 
+  222  ls
+  223  cat client.crt
+  224  ls
+  225  sudo openvpn --config client.ovpn 
+  226  chmod 400 client.key 
+  227  sudo openvpn --config client.ovpn 
+  228  cat client.ovpn 
+  229  sudo openvpn --config client.ovpn 
+  230  mc
+  231  sudo su
+  232  sudo dpkg -i ~/Downloads/whatsie*.deb; sudo apt -f install
+  233  whatsie
+  234  sudo apt-get install whatsie
+  235  myip 
+  236  cd openvpn/
+  237  ls
+  238  rm -rf *
+  239  ls
+  240  vim client.ovpn
+  241  pwd
+  242  vim client.ovpn
+  243  sudo openvpn --config client.ovpn
+  244  vim client.ovpn 
+  245  sudo openvpn --config client.ovpn
+  246  vim client.ovpn 
+  247  sudo openvpn --config client.ovpn
+  248  ls
+  249  cat ca.crt 
+  250  ls
+  251  cat client.crt 
+  252  cat client.key 
+  253  sudo openvpn --config client.ovpn
+  254  şs
+  255  ll
+  256  sudo openvpn --config client.ovpn
+  257  ns-cert-type server
+  258  remote-cert-tls server
+  259  sudo apt-get install easy-rsa 
+  260  remote-cert-tls server
+  261  sudo openvpn --config client.ovpn
+  262  myip 
+  263  ping 8.8.8.8
+  264  myip 
+  265  ping 8.8.8.8
+  266  myip 
+  267  ping 8.8.8.8
+  268  myip 
+  269  reboot
+  270  owd
+  271  pwd
+  272  echo 'deb http://repository.spotify.com stable non-free' >> /etc/apt/sources.list
+  273  sudo echo 'deb http://repository.spotify.com stable non-free' >> /etc/apt/sources.list
+  274  sudo su
+  275  indir spotify-client
+  276  spotify 
+  277  baglan
+  278  baglan
+  279  pwd
+  280  cd openvpn/
+  281  vim client.ovpn
+  282  cd ..
+  283  ls
+  284  cd openvpn/
+  285  openvpn --config client.conf
+  286  openvpn --config client.ovpn 
+  287  sudo openvpn --config client.ovpn 
+  288  vim client.ovpn
+  289  sudo openvpn --config client.ovpn 
+  290  cd ~/.config
+  291  mv plasma-org.kde.plasma.desktop-appletsrc \
+  292  mv plasma-org.kde.plasma.desktop-appletsrc plasma-org.kde.plasma.desktop-appletsrc.bak
+  293  kbuildsycoca5 && kquitapp plasmashell && kstart plasmashell
+  294  kquitapp plasmashell && kstart plasmashell
+  295  mv ~/.kde4/share/config/plasmarc ~/.kde4/share/config/plasmarc.old
+  296  mv ~/.kde/share/config/plasmarc ~/.kde/share/config/plasmarc.old
+  297  kinfocenter 
+  298  vim ~/.config/plasma-org.kde.plasma.desktop-appletsrc
+  299  cd openvpn/
+  300  sudo openvpn --config client.ovpn 
+  301  top 
+  302  cat openvpn-as-2.1.4b-Ubuntu16.amd_64.deb 
+  303  ls
+  304  cat oast-2.4-linux-x86-64.sh 
+  305  openvpn-as
+  306  openvpn-sa
+  307  sudo openvpn --config client.ovpn 
+  308  cd openvpn/
+  309  ls
+  310  sudo openvpn --config client.ovpn 
+  311  vim client.ovpn 
+  312  sudo openvpn --config client.ovpn 
+  313  vim client.ovpn 
+  314  sudo openvpn --config client.ovpn 
+  315  vim client.ovpn
+  316  sudo openvpn --config client.ovpn 
+  317  vim client.ovpn
+  318  sudo openvpn --config client.ovpn 
+  319  vim client.ovpn
+  320  sudo openvpn --config client.ovpn 
+  321  vim client.ovpn
+  322  sudo openvpn --config client.ovpn 
+  323  vim client.ovpn
+  324  pwd
+  325  vim client.ovpn
+  326  sudo openvpn --config client.ovpn 
+  327  vim client.ovpn
+  328  sudo openvpn --config client.ovpn 
+  329  vim client.ovpn
+  330  sudo openvpn --config client.ovpn 
+  331  vim client.ovpn
+  332  sudo openvpn --config client.ovpn 
+  333  cipher AES-256-CBC
+  334  alias baglan
+  335  ssh-copy-id 
+  336  ssh-copy-id root@server
+  337  sudo ssh-copy-id root@server
+  338  mkdir /home/monster/.pub
+  339  ssh-copy-id root@server
+  340  cd openvpn/
+  341  ls
+  342  sudo openvpn --config client.ovpn 
+  343  cat client.ovpn 
+  344  cat client.ovpn | grep port
+  345  vim client.ovpn 
+  346  passwd openvpn
+  347  sudo passwd openvpn
+  348  wget http://swupdate.openvpn.org/as/openvpn-as-2.1.2-Ubuntu16.amd_64.deb
+  349  dpkg -i openvpn-as-2.1.2-Ubuntu16.amd_64.deb
+  350  sudo dpkg -i openvpn-as-2.1.2-Ubuntu16.amd_64.deb
+  351  passwd openvpn
+  352  sudo passwd openvpn
+  353  sudo apt-get install ufw
+  354  service network restart
+  355  baglan
+  356  cd openvpn/
+  357  rm -rf *
+  358  ls
+  359  vim client.ovpn
+  360  openvpn --config client.ovpn 
+  361  sudo openvpn --config client.ovpn 
+  362  vim client.ovpn
+  363  sudo openvpn --config client.ovpn 
+  364  ssh root@146.185.135.216
+  365  vim celikali.txt
+  366  cd openvpn/
+  367  rm -rf *
+  368  ls
+  369  vim client.ovpn
+  370  openvpn --config client.ovpn 
+  371  cat client.key 
+  372  ls
+  373  cat ca.crt 
+  374  ls
+  375  cat client.crt 
+  376  openvpn --config client.ovpn 
+  377  openvpn --config /home/monster/openvpn/client.ovpn 
+  378  reboot
+  379  top
+  380  openvpn-as
+  381  alias baglan
+  382  cat /etc/hosts
+  383  baglan
+  384  alias baglan
+  385  cat /etc/host | grep server
+  386  cat /etc/hosts | grep server
+  387  cd openvpn/
+  388  ls
+  389  openvpn --config client.ovpn 
+  390  sudo openvpn --config client.ovpn 
+  391  ls
+  392  vim client.ovpn 
+  393  sudo openvpn --config client.ovpn 
+  394  vim client.ovpn 
+  395  sudo openvpn --config client.ovpn 
+  396  telnet 146.185.135.216 443
+  397  sudo telnet 146.185.135.216 443
+  398  sudo telnet 146.185.135.216 80
+  399  sudo telnet 146.185.135.216 443
+  400  vim client.ovpn 
+  401  ssh root@146.185.135.216
+  402  myip 
+  403  vim client.ovpn 
+  404  openvpn --config client.ovpn 
+  405  telnet 146.185.135.216 1194
+  406  vim client.ovpn 
+  407  telnet 146.185.135.216 1194
+  408  openvpn --config client.ovpn 
+  409  sudo openvpn --config client.ovpn 
+  410  reboot
+  411  reboot 
+  412  cd ~/.config
+  413  mv plasma-org.kde.plasma.desktop-appletsrc plasma-org.kde.plasma.desktop-appletsrc.bak
+  414  kbuildsycoca5 && kquitapp plasmashell && kstart plasmashell
+  415  kquitapp plasmashell && kstart plasmashell
+  416  reboot
+  417  sudo apt-get install geany
+  418  vim /etc/X11/xorg.conf 
+  419  top
+  420  vim /etc/X11/xorg.conf 
+  421  sudo vim /etc/profile.d/Tearing.sh
+  422  alias c
+  423  c /etc/profile.d/Tearing.sh 
+  424  sudo c /etc/profile.d/Tearing.sh 
+  425  chmod +x /etc/profile.d/Tearing.sh
+  426  sudo chmod +x /etc/profile.d/Tearing.sh
+  427  reboot
+  428  sudo apt-get install compton
+  429  compton
+  430  man compton
+  431  find / | grep compton
+  432  reboot
+  433  reboot 
+  434  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 4
+  435  ping google.com.tr
+  436  xinput --set-prop "Razer Razer DeathAdder" "Device Accel Constant Deceleration" 5
+  437  top
+  438  whois tr.net
+  439  indir whois
+  440  whois tr.net
+  441  reboot
+  442  cat /etc/shadow
+  443  sudo cat /etc/shadow
+  444  id monster 
+  445  vim deneme.txt
+  446  sed -i 's/taner/yasar/g' deneme.txt 
+  447  cat deneme.txt 
+  448  indir indir 2> hata.txt
+  449  cat hata.txt 
+  450  reboot
+  451  pwd
+  452  df -Th
+  453  pwd
+  454  psg reboot
+  455  reboot
+  456  pwd
+  457  ls
+  458  cd HardDriveRsync/
+  459  ls
+  460  ls
+  461  rsync -av . /media/monster/Data/HardDriveRsync/
+  462  pwd
+  463  cd Desktop/
+  464  py Untitled\ Document\ 1 
+  465  python3 merhaba.py 
+  466  vim merhaba.py 
+  467  python3 merhaba.py 
+  468  vim merhaba.py 
+  469  python3 merhaba.py 
+  470  python3 merhaba.py taner
+  471  python merhaba.py taner
+  472  cd Desktop/
+  473  s
+  474  vim isgorusmesi.txt
+  475  vim pythonnotlari.txt
+  476  reboot
+  477  ssh root@192.168.2.236
+  478  rsync -av CentOS-7-x86_64-Minimal-1503-01.iso 192.168.2.236:/root
+  479  sudo su
+  480  ping 192.168.2.236
+  481  ssh root@192.168.2.236
+  482  rsync -av Desktop/CentOS-7-x86_64-Minimal-1503-01.iso 192.168.2.160:/root
+  483  sudo su
+  484  top
+  485  uptime 
+  486  reboot 
+  487  ssh root@192.168.2.160
+  488  indir qbittorrent
+  489  psg qbit
+  490  sudo apt-get remove qbittorrent 
+  491  sudo apt-get install transmission
+  492  trans
+  493  df -Th
+  494  psg team
+  495  baglan
+  496  vim eksi.txt
+  497  cd Desktop/
+  498  ls
+  499  rsync -av 127.0.0.1:/root
+  500  rsync -av CentOS-7-x86_64-Minimal-1503-01.iso 127.0.0.1:/root
+  501  127.0.0.1:/root
+  502  rsync -av CentOS-7-x86_64-Minimal-1503-01.iso 127.0.0.1:/root
+  503  rsync -av CentOS-7-x86_64-Minimal-1503-01.iso 127.0.0.1:61022:/root
+  504  rsync -av CentOS-7-x86_64-Minimal-1503-01.iso 127.0.0.1:61022/root
+  505  rsync -av CentOS-7-x86_64-Minimal-1503-01.iso 127.0.0.1:/root
+  506  ip addr
+  507  sync -avz -e "ssh -p 61022" root@127.0.0.1:/root
+  508  rsync -avz -e "ssh -p 61022" root@127.0.0.1:/root
+  509  rsync -avz -e "ssh -p 61022" root@127.0.0.1:/root CentOS-7-x86_64-Minimal-1503-01.iso 
+  510  rsync -avz -e "ssh -p 61022" CentOS-7-x86_64-Minimal-1503-01.iso  root@127.0.0.1:/root
+  511  bashrc
+  512  alias bashrc
+  513  alias ls
+  514  ip addr
+  515  alias
+  516  alias sourceb
+  517  rsync ftp.belnet.be::packages/damnsmalllinux/
+  518  rsync -avz -e "ssh -p 61022" Downloads/TinyCore-7.2.iso root@127.0.0.1:/root
+  519  ping 10.0.2.4
+  520  ssh root@10.0.2.4 -p 61000
+  521  ssh root@127.0.0.1 -p 61000
+  522  ping 127.0.0.1
+  523  ssh root@127.0.0.1 -p 61000
+  524  ssh root@127.0.0.1 -p 61022
+  525  top
+  526  ping devfilmsanat.com
+  527  top
+  528  uptime
+  529  whois youreads.net
+  530  gsettings set org.gnome.nautilus.desktop volumes-visible true
+  531  cd Deo
+  532  cd Downloads/
+  533  ls
+  534  rsync -avz -e "ssh -p $portNumber" user@remoteip:/path/to/files/ /local/path/
+  535  rsync -avz -e "ssh -p 60022" TinyCore-7.2.iso server@127.0.0.1:/root
+  536  rsync -avz -e "ssh -p 60022" TinyCore-7.2.iso server@127.0.0.1:/home
+  537  rsync -avz -e "ssh -p 60022" TinyCore-7.2.iso server@127.0.0.1:/home/server
+  538  top
+  539  reboot
+  540  ssh root@10.0.2.15
+  541  ssh root@127.0.0.1 -p 61022
+  542  ssh-keygen -f "/home/monster/.ssh/known_hosts"
+  543  ssh root@127.0.0.1 -p 61022
+  544  ssh root@127.0.0.1 -p 60022
+  545  ip addr
+  546  ip
+  547  ifconfig 
+  548  ssh server@127.0.0.1 -p 60022
+  549  ssh root@lo
+  550  cat /etc/hosts
+  551  ssh root@localhost -p 60022
+  552  ssh root@localhost -p 61022
+  553  ssh root@127.0.0.1 -p 61022
+  554  ssh-keygen -f "/home/monster/.ssh/known_hosts" -R [127.0.0.1]:61022
+  555  ssh root@127.0.0.1 -p 61022
+  556  rm -rf /home/monster/.ssh/known_hosts
+  557  ssh root@127.0.0.1 -p 61022
+  558  rsync -avz -e "ssh -p 61022" Desktop/CentOS-7-x86_64-Minimal-1503-01.iso  server@127.0.0.1:/root
+  559  rsync -avz -e "ssh -p 61022" Desktop/CentOS-7-x86_64-Minimal-1503-01.iso  root@127.0.0.1:/root
+  560  top
+  561  reboot
+  562  vim Desktop/izle.txt
+  563  vim Desktop/bugünbak.txt
+  564  df -Th
+  565  reboot
+  566  vim Desktop/etsturizm.txt
+  567  vim Desktop/makdos.txt
+  568  vim Desktop/onyazi.txt
+  569  git config --global user.name "tnrork"
+  570  git config --global user.email "taner.orak@ogr.dpu.edu.tr"
+  571  vim ~/.gitconfig
+  572  git push origin master
+  573  cd Desktop/
+  574  mkdir depo
+  575  cd depo/
+  576  git init
+  577  cd ..
+  578  ls
+  579  cd bash
+  580  git init
+  581  gşt add
+  582  git add
+  583  vim usefulbash.sh
+  584  git add
+  585  git add .
+  586  git commit
+  587  git status
+  588  git push -u origin master
+  589  git clone https://github.com/tnrork/bash/tree/master/bash
+  590  git clone https://github.com/tnrork/bash/blob/master/bash/cevir.sh
+  591  git push -u origin master
+  592  git clone https://github.com/tnrork/bash.git
+  593  git push -u origin master
+  594  cd bash/
+  595  git push -u origin master
+  596  cd bash/
+  597  cd bash
+  598  ls
+  599  git push -u origin master
+  600  cd ..
+  601  git push -u origin master
+  602  cd bash/
+  603  ls
+  604  chmod +x usefulbash.sh 
+  605  ls
+  606  git push -u origin master
+  607  indir git
+  608  psg firefox
+  609  kill -9 3266
+  610  poweroff
+  611  reboot
+  612  vim Desktop/cloudidea.txt
+  613  sudo apt-get install skype
+  614  indir skype
+  615  skype
+  616  reboot
+  617  runlevel 
+  618  who -r
+  619  rebook
+  620  reboot 
+  621  reboot
+  622  ping 192.168.2.31
+  623  ssh root@192.168.2.31
+  624  systemctl restart networking
+  625  ip addr
+  626  iw config
+  627  iwconfig
+  628  nmcli
+  629  nmcli nm
+  630  nmcli n
+  631  nmcli -n -m
+  632  nmcli
+  633  nmcli n wifi
+  634  nmcli n wifi on
+  635  nmcli n 
+  636  nmcli m
+  637  mncli
+  638  nmcli 
+  639  nmcli mn
+  640  nmcli -m
+  641  nmcli m
+  642  nm-tool
+  643  rfkill list
+  644  nmcli radio wifi
+  645  systemctl restart networking
+  646  systemctl stop networking
+  647  systemctl start networking
+  648  service networking restart
+  649  sudo service network-manager restart
+  650  ifconfig wlan0 | sed -n '2s/[^:]*:\([^ ]*\).*/\1/p'
+  651  ip addr
+  652  ifconfig wl* | sed -n '2s/[^:]*:\([^ ]*\).*/\1/p'
+  653  ifconfig wlp30 | sed -n '2s/[^:]*:\([^ ]*\).*/\1/p'
+  654  ifconfig wlp3s0 | sed -n '2s/[^:]*:\([^ ]*\).*/\1/p'
+  655  ip route get 8.8.8.8 | awk '{print $NF; exit}'
+  656  /sbin/ifconfig eth0 | grep 'inet addr:' | cut -d: -f2 | awk '{ print $1}'
+  657  reboot
+  658  top
+  659  reboot
+  660  top
+  661  reboot 
+  662  ssh root@192.168.2.150
+  663  ssh root@192.168.2.31
+  664  ssh root@http://192.168.2.150/
+  665  ssh root@192.168.2.150
+  666  ssh root@192.168.2.86
+  667  ping 192.168.2.31
+  668  ssh root@192.168.2.150
+  669  ssh root@192.168.2.31
+  670  ssh root@192.168.2.208
+  671  vim ~/.kde/share/config/kwalletrc 
+  672  reboot
+  673  aslanımaslanım
+  674  aslanım
+  675  geany 
+  676  gedit
+  677  sudo apt-get install nethogs 
+  678  nethogs
+  679  sudo nethogs
+  680  netspeed
+  681  sudo apt-get install vnstat
+  682  vnstat
+  683  sudo apt-get install vnstati
+  684  vnstati
+  685  1
+  686  vnstati eth0
+  687  vnstati -h
+  688  vnstati -h 1
+  689  vnstati -d
+  690  vnstati
+  691  vnstati --hours
+  692  man vnstati
+  693  sudo apt-get install nmap
+  694  ip addr
+  695  ifconfig 
+  696  nmap -sP 192.168.2.0/24
+  697  nmap -sn 192.168.2.0/24
+  698  sudo nmap -sS -sU -T5 -A -v 192.168.2.0/24
+  699  ps aux | grep system
+  700  reboot
+  701  sudo apt-get install sublime-text
+  702  DockerfileDockerfilehDockerfile
+  703  ls 
+  704  git clone github.com:tnrork/bash.git
+  705  git clone https://github.com/tnrork/bash.git
+  706  vim downloadvideo.sh
+  707  c downloadvideo.sh 
+  708  git init 
+  709  git push -u origin master
+  710  git remote add origin https://github.com/tnrork/bash.git
+  711  git push -u origin master
+  712  ls
+  713  mv downloadvideo.sh bash/
+  714  git remote add origin https://github.com/tnrork/bash.git
+  715  git push -u origin master
+  716  cd bash/
+  717  git push -u origin master
+  718  git status
+  719  ls
+  720  mv downloadvideo.sh bash/
+  721  ls
+  722  git push -u origin master
+  723  cd bash/
+  724  git push -u origin master
+  725  ls
+  726  git push -u origin master
+  727  git remote add origin https://github.com/tnrork/bash.git
+  728  git init 
+  729  git init .
+  730  git push -u origin master
+  731  git init
+  732  ll
+  733  git add *
+  734  git status
+  735  git remote add origin https://github.com/tnrork/bash.git
+  736  git push -u origin master
+  737  git push origin master
+  738  git init bash
+  739  cd ..
+  740  ls
+  741  git init bash
+  742  cd bash
+  743  git add *
+  744  git remote add origin https://github.com/tnrork/bash.git
+  745  git push origin master
+  746  git pull --rebase
+  747  git pull --rebase origin master
+  748  git push origin master
+  749  git push origin
+  750  git push origin master
+  751  git commit -m 'Update Bash'
+  752  git push origin master
+  753  git remote add origin https://github.com/tnrork/bash.git
+  754  git add *
+  755  git push origin master
+  756  git clone https://github.com/tnrork/t-n-.git
+  757  ls
+  758  cd bash
+  759  git add *
+  760  git push origin master
+  761  git commit -m 'Update Bash'
+  762  git push origin master
+  763  ssh root@192.168.2.208
+  764  reboot
+  765  rsync -av 192.168.2.208:/root/loadbalancerondocker .
+  766  sudo rsync -av 192.168.2.208:/root/loadbalancerondocker .
+  767  sudo su
+  768  cd Desktop/github/
+  769  s
+  770  ls
+  771  cd loadbalancerondocker/
+  772  ls
+  773  git init
+  774  git push origin master
+  775  git remote add origin https://github.com/tnrork/dockerexamples.git
+  776  git init
+  777  /home/monster/Desktop/github/loadbalancerondocker/.git/config
+  778  vim /home/monster/Desktop/github/loadbalancerondocker/.git/config
+  779  ssh root@192.168.2.208
+  780  ls
+  781  ll
+  782  chmod 777 loadbalancerondocker
+  783  sudo chmod 777 loadbalancerondocker
+  784  ll
+  785  cd loadbalancerondocker/
+  786  ls
+  787  git init
+  788  ls
+  789  ll
+  790  rm -rf .git/
+  791  sudo rm -rf .git/
+  792  git init 
+  793  ll
+  794  git add *
+  795  git status
+  796  git commit -m "Loadbalancer on Docker"
+  797  git status
+  798  git remote add origin https://github.com/tnrork/dockerexamples.git
+  799  git push -u origin master
+  800  ls
+  801  cd ..
+  802  git clone https://github.com/tnrork/ScriptForSystem.git
+  803  ls
+  804  cd ScriptForSystem/
+  805  ls
+  806  mv untitled diskusage.sh
+  807  c diskusage.sh 
+  808  c *
+  809  sh databasebackup.sh 
+  810  ls
+  811  sh newuser.sh 
+  812  sudo sh newuser.sh 
+  813  git init
+  814  ll
+  815  history > history.txt
